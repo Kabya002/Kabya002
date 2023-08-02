@@ -18,10 +18,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
--<a href="https://linkedin.com/in/https://www.linkedin.com/in/kabyashreegogoi002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kabyashreegogoi002" height="30" width="40" />LinkedIn</a><br>
--<a href="https://instagram.com/https://www.instagram.com/kabya.002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kabya.002/" height="30" width="40" />Instagram</a><br>
--<a href="https://www.leetcode.com/https://leetcode.com/kabya002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kabya002/" height="30" width="40" />LeetCode</a><br>
--<a href="https://www.hackerearth.com/https://www.hackerrank.com/kabyashreegogoi1?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/kabyashreegogoi1?hr_r=1" height="30" width="40" />HackerRank</a>
+-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kabyashreegogoi002" target="blank">LinkedIn</a><br>
+-<a href="https://instagram.com/https://www.instagram.com/kabya.002/" target="blank">Instagram</a><br>
+-<a href="https://www.leetcode.com/https://leetcode.com/kabya002/" target="blank">LeetCode</a><br>
+-<a href="https://www.hackerearth.com/https://www.hackerrank.com/kabyashreegogoi1?hr_r=1" target="blank">HackerRank</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
