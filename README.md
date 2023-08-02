@@ -1,3 +1,4 @@
+![MasterHead](https://github.com/Kabya002/Kabya002/blob/main/ezgif.com-crop.gif)
 <h1 align="center">Kabyashree Gogoi</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
