@@ -34,4 +34,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kabya002&show_icons=true&theme=transparent" alt="kabya002" /></p><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kabya002&show_icons=true&theme=transparent&" alt="kabya002" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kabya002&show_icons=true&theme=transparent&" alt="kabya002" /></p><br>
+
+[![Kabya002's GitHub | Stats](https://stats.quine.sh/Kabya002/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Kabya002)
