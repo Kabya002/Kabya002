@@ -75,8 +75,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabya002&layout=compact&theme=transparent" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kabya002&theme=transparent" alt="GitHub Streak" />
-</p>
 
 ---
